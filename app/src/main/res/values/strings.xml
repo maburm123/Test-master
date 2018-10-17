@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">9WatThanamnon</string>
+    <string name="name1">ศาลเจ้าแม่ทับทิม</string>
+    <string name="name2">วัดกลางบางซื่อ</string>
+    <string name="name3">วัดโตนด</string>
+    <string name="name4">วัดบางระโหง</string>
+    <string name="name5">วัดท้ายเมือง</string>
+    <string name="name6">วัดแคนอก</string>
+    <string name="name7">พุทธสถานเชิงท่า</string>
+    <string name="name8">วัดฉิมพลีสุทธาวาส</string>
+    <string name="name9">วัดปรมัยยิกาวาสวรวิหาร</string>
+    <string name="detail">รายละเอียดสถานที่</string>
+    <string name="travel">วิธีการเดินทาง</string>
+    <string name="place">สถานที่ใกล้เคียง</string>
+    <string name="GPS">GPS</string>
+    <string name="VDO360">VDO 360</string>
+</resources>

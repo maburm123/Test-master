@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="title">
+        <item>ศาลเจ้าแม่ทับทิม</item>
+        <item>วัดกลางบางซื่อ</item>
+        <item>วัดโตนด</item>
+        <item>วัดบางระโหง</item>
+        <item>วัดท้ายเมือง</item>
+        <item>วัดแคนอก</item>
+        <item>พุทธสถานเชิงท่า</item>
+        <item>วัดฉิมพลีสุทธาวาส</item>
+        <item>วัดปรมัยยิกาวาสวรวิหาร</item>
+
+    </string-array>
+
+</resources>
